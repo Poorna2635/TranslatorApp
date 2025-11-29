@@ -68,7 +68,6 @@ The latest APK is available in the Release section.
 
 
 ## 📸 Screenshots
-![Home Screen](images/homepage.png)
 ![Results Screen](images/result.png) 
 
 
