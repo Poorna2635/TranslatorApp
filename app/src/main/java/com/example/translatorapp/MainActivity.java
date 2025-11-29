@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
-    // ✅ Moved outside onCreate()
     private void translateText(String inputText, TextView outputTextView) {
         translator.translate(inputText)
                 .addOnSuccessListener(new OnSuccessListener<String>() {
